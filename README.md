@@ -80,5 +80,12 @@ Created by [@zuhair30] - feel free to contact me! on email as well zuhair30@gmai
 
 Supported by Shagufta Naaz Shaikh - rechable at naazakbar89@gmail.com
 
-Git Hub Link of repository is at https://github.com/zuhair30/Lending_Club_Case_Study_SYEDandNAAZ
+Git Hub Link of repository is at 
+----------------------------------------------------------------
+https://github.com/zuhair30/Lending_Club_Case_Study_SYEDandNAAZ
+
+In case above link is not working or ppt or python file is not rendered due to git hub slowness or size issue
+please use below url that will dowload the above repo in zip format in your local
+-------------------------------------------------------------------------------------------------------------
+https://github.com/zuhair30/Lending_Club_Case_Study_SYEDandNAAZ/zipball/master
 
