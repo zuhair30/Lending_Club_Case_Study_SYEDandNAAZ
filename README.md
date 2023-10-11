@@ -60,6 +60,7 @@ Give credit here.
 ## Contact
 Created by [@zuhair30] - feel free to contact me! on email as well zuhair30@gmail.com
 
-Supported by Naz Akbar - rechable at 
+Supported by Naz Akbar - rechable at naazakbar89@gmail.com
+
 Git Hub Link of repository is at https://github.com/zuhair30/Lending_Club_Case_Study_SYEDandNAAZ
 
