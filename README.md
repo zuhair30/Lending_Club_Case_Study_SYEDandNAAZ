@@ -23,23 +23,23 @@
 
 
 ## Conclusions Drawn
-Candidates with high loan amount are more likely to charge off
-Grades E,F,G have higher tendency to charge off
-Grade F , G , E have high interest rates as compared to others
-Grade E,F,G have higher Debt to income ratio
-Candidates with high income are less likely to default
-Candidates with high interest rates are likely to default
-Debt to Income ratio (DTI) Is better for Fully paid candidates
-Candidates having less Employee Length(exp) are more likely to not pay the loan
-Charge Off are higher for high installments
-Customers who are on RENT or who are non verified are more likely to default and hence High risk customers
-Candidates are wanting loan more Purpose of home, small business and they take it for less term
-Installments for credit card , debt consolidation , small_business and house are more with regards to others
-Candidates who have taken loan for purpose of small business are more likely to default along with Debt consolidation
-Most percentage of defaulters is in range of less than 10k with rent or mortgages
-Maximum charge off are from California that means better checks in CA state and FL or NY
-DTI is negatively correlated with annual inc or loan amount and recoveries is also very weakly correlated with most vars not giving much insight
-Interest rate vs loan amount gives that higher median of loan amount for higher interest rates
+*Candidates with high loan amount are more likely to charge off
+*Grades E,F,G have higher tendency to charge off
+*Grade F , G , E have high interest rates as compared to others
+*Grade E,F,G have higher Debt to income ratio
+*Candidates with high income are less likely to default
+*Candidates with high interest rates are likely to default
+*Debt to Income ratio (DTI) Is better for Fully paid candidates
+*Candidates having less Employee Length(exp) are more likely to not pay the loan
+*Charge Off are higher for high installments
+*Customers who are on RENT or who are non verified are more likely to default and hence High risk customers
+*Candidates are wanting loan more Purpose of home, small business and they take it for less term
+*Installments for credit card , debt consolidation , small_business and house are more with regards to others
+*Candidates who have taken loan for purpose of small business are more likely to default along with Debt consolidation
+*Most percentage of defaulters is in range of less than 10k with rent or mortgages
+*Maximum charge off are from California that means better checks in CA state and FL or NY
+*DTI is negatively correlated with annual inc or loan amount and recoveries is also very weakly correlated with most vars not giving much insight
+*Interest rate vs loan amount gives that higher median of loan amount for higher interest rates
 
 
 ## Technologies Used
